@@ -5,4 +5,5 @@ Part of your job is to build a model to find out which drug might be appropriate
 It is a sample of binary classifier, and you can use the training part of the dataset to build a decision tree, and then use it to predict the class of a unknown patient, or to prescribe it to a new patient.
 <img src='Screenshot_24.png'>
 <img src='Screenshot_23.png'>
+<img src='Screenshot_25.png'>
 <img src='TREE.png'>
